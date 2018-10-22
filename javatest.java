@@ -1,8 +1,8 @@
 public class javatest {
 
     public static void main(String[] args) {
-        // Prints "Hello, BOSS...Whatzup" to the terminal window.
-        System.out.println("Hello BOSS...Whatzup");
+        // Prints "Hey Dude, AWS and OnPrem Jeninks are now friends...!!" to the terminal window.
+        System.out.println("Hey Dude, AWS and OnPrem Jeninks are now friends...!!");
     }
 
 }
