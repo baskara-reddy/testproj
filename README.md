@@ -1,2 +1,2 @@
 # testproj
-Java Hello World Programm.
+Java Hello World Program.
